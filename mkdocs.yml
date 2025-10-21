@@ -14,8 +14,8 @@ site_url: https://seusite.github.io/wiki-ti/
 theme:
   name: material
   language: pt-BR
-  logo: images/logo.png          # Caminho para o logotipo (coloque em docs/images/)
-  favicon: images/favicon.png    # Ícone da aba do navegador
+  # logo: images/logo.png          # Caminho para o logotipo (coloque em docs/images/)
+  # favicon: images/favicon.png    # Ícone da aba do navegador
 
   palette:
     - scheme: default
@@ -30,7 +30,7 @@ theme:
 
   features:
     - navigation.tabs
-    - navigation.top
+    # - navigation.top
     - search.suggest
     - content.code.copy
     - toc.integrate             # Índice lateral integrado
