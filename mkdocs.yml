@@ -4,3 +4,4 @@ theme:
 
 nav:
   - Início: index.md
+  - Alteração de senhas: alterarSenha.md
