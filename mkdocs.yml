@@ -1,0 +1,6 @@
+site_name: Wikipédia do Setor de TI
+theme:
+  name: material
+
+nav:
+  - Início: index.md
