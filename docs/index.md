@@ -12,6 +12,6 @@ Este é o Wiki do nosso setor de TI — o repositório oficial de conhecimento d
 ### &nbsp;&nbsp;Audiovisual e Multimídia
 ### &nbsp;&nbsp;Procedimentos Operacionais
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alteração de senhas
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Moodle](senhaMoodle.md)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [Email](senhaEmail.md)
+- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Moodle](senhaMoodle.md)
+- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Email](senhaEmail.md)
 ### &nbsp;&nbsp;Base de Conhecimento e Tutoriais
