@@ -7,7 +7,7 @@ Este é o Wiki do nosso setor de TI — o repositório oficial de conhecimento d
 - [Drive do setor](https://drive.google.com/drive/folders/17NKfnCuFVOzgUu3UB8x2Ixnjcy9ae5uh?usp=sharing)
 - [Contatos e horários](contato.md)
 
-### _ Infraestrutura e rede
+_ ### Infraestrutura e rede
 ### _ Suporte Técnico e Help Desk
 ### Audiovisual e Multimídia
 ### Procedimentos Operacionais
