@@ -11,7 +11,7 @@ Este é o Wiki do nosso setor de TI — o repositório oficial de conhecimento d
 ### &nbsp;&nbsp;Suporte Técnico e Help Desk
 ### &nbsp;&nbsp;Audiovisual e Multimídia
 ### &nbsp;&nbsp;Procedimentos Operacionais
-####&nbsp;&nbsp; Alteração de senhas
+#### &nbsp;&nbsp;&nbsp;&nbsp;Alteração de senhas
 - [Moodle](senhaMoodle.md)
 - [Email](senhaEmail.md)
 ### &nbsp;&nbsp;Base de Conhecimento e Tutoriais
