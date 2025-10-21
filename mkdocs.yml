@@ -1,7 +1,22 @@
+# ============================================
+# CONFIGURAÇÃO DO WIKI - SETOR DE TI
+# ============================================
+
 site_name: Wikipédia do Setor de TI
+site_description: Central de conhecimento técnico e operacional do Setor de Tecnologia da Informação
+site_author: Equipe de TI
+site_url: https://seusite.github.io/wiki-ti/
+
+# ============================================
+# TEMA E ESTILO
+# ============================================
+
 theme:
   name: material
   language: pt-BR
+  logo: images/logo.png          # Caminho para o logotipo (coloque em docs/images/)
+  favicon: images/favicon.png    # Ícone da aba do navegador
+
   palette:
     - scheme: default
       primary: blue grey
@@ -12,12 +27,72 @@ theme:
       toggle:
         icon: material/weather-night
         name: Modo escuro
+
   features:
     - navigation.tabs
     - navigation.top
     - search.suggest
     - content.code.copy
+    - toc.integrate             # Índice lateral integrado
+    - navigation.instant        # Carregamento rápido das páginas
+
+# ============================================
+# PLUGINS
+# ============================================
+
+plugins:
+  - search                      # Mecanismo de busca integrado
+  - tags                        # Suporte a tags (opcional)
+  - git-revision-date           # Exibe a data da última modificação de cada página
+
+# ============================================
+# NAVEGAÇÃO (MENU)
+# ============================================
 
 nav:
   - Início: index.md
-  - Alteração de senhas: alterarSenha.md
+  - Infraestrutura:
+      - Redes e conectividade: redes.md
+      - Servidores e monitoramento: servidores.md
+  - Desenvolvimento:
+      - Padrões e práticas: desenvolvimento/padroes.md
+      - Sistemas internos: desenvolvimento/sistemas.md
+  - Suporte Técnico:
+      - Alteração de senhas: alterarSenha.md
+      - Manutenção de equipamentos: manutencao.md
+      - Acesso remoto: acessoRemoto.md
+  - Audiovisual:
+      - Equipamentos multimídia: audiovisual/equipamentos.md
+      - Gravação e filmagem: audiovisual/gravacao.md
+  - Segurança:
+      - Políticas e boas práticas: seguranca/politicas.md
+      - Backup e recuperação: seguranca/backup.md
+  - Sobre:
+      - Equipe de TI: equipe.md
+      - Contatos: contato.md
+
+# ============================================
+# INFORMAÇÕES EXTRAS
+# ============================================
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/seu-usuario
+      name: GitHub
+    - icon: fontawesome/solid/envelope
+      link: mailto:ti@instituicao.br
+      name: E-mail
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/company/suaempresa
+      name: LinkedIn
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+  - toc:
+      permalink: true
+  - tables
+  - def_list
+  - attr_list
