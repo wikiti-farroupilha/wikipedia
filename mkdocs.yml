@@ -1,6 +1,6 @@
 site_name: Wikipédia do Setor de TI
 theme:
-  name: material
+  name: readthedocs
 
 nav:
   - Início: index.md
