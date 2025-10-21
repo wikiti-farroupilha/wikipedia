@@ -1,6 +1,22 @@
 site_name: Wikipédia do Setor de TI
 theme:
-  name: readthedocs
+  name: material
+  language: pt-BR
+  palette:
+    - scheme: default
+      primary: blue grey
+      accent: indigo
+    - scheme: slate
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/weather-night
+        name: Modo escuro
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.suggest
+    - content.code.copy
 
 nav:
   - Início: index.md
