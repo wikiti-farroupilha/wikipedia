@@ -7,11 +7,10 @@ Este é o Wiki do nosso setor de TI — o repositório oficial de conhecimento d
 - [Drive do setor](https://drive.google.com/drive/folders/17NKfnCuFVOzgUu3UB8x2Ixnjcy9ae5uh?usp=sharing)
 - [Contatos e horários](contato.md)
 
-### &nbsp;&nbsp;Infraestrutura e rede
-### &nbsp;&nbsp;Suporte Técnico e Help Desk
-### &nbsp;&nbsp;Audiovisual e Multimídia
-### &nbsp;&nbsp;Procedimentos Operacionais
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alteração de senhas
-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Moodle](senhaMoodle.md)
-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Email](senhaEmail.md)
-### &nbsp;&nbsp;Base de Conhecimento e Tutoriais
+### Infraestrutura e rede
+### Suporte Técnico e Help Desk
+### Audiovisual e Multimídia
+### Procedimentos Operacionais
+- [Alteração de senhas](alterarSenha.md)
+
+### Base de Conhecimento e Tutoriais
