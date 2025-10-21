@@ -14,8 +14,6 @@ site_url: https://seusite.github.io/wiki-ti/
 theme:
   name: material
   language: pt-BR
-  # logo: images/logo.png          # Caminho para o logotipo (coloque em docs/images/)
-  # favicon: images/favicon.png    # Ícone da aba do navegador
 
   palette:
     - scheme: default
@@ -30,7 +28,6 @@ theme:
 
   features:
     - navigation.tabs
-    # - navigation.top
     - search.suggest
     - content.code.copy
     - toc.integrate             # Índice lateral integrado
@@ -51,25 +48,6 @@ plugins:
 
 nav:
   - Início: index.md
-  - Infraestrutura:
-      - Redes e conectividade: redes.md
-      - Servidores e monitoramento: servidores.md
-  - Desenvolvimento:
-      - Padrões e práticas: desenvolvimento/padroes.md
-      - Sistemas internos: desenvolvimento/sistemas.md
-  - Suporte Técnico:
-      - Alteração de senhas: alterarSenha.md
-      - Manutenção de equipamentos: manutencao.md
-      - Acesso remoto: acessoRemoto.md
-  - Audiovisual:
-      - Equipamentos multimídia: audiovisual/equipamentos.md
-      - Gravação e filmagem: audiovisual/gravacao.md
-  - Segurança:
-      - Políticas e boas práticas: seguranca/politicas.md
-      - Backup e recuperação: seguranca/backup.md
-  - Sobre:
-      - Equipe de TI: equipe.md
-      - Contatos: contato.md
 
 # ============================================
 # INFORMAÇÕES EXTRAS
