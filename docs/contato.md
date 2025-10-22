@@ -12,15 +12,15 @@
   
 - Daniel Teles
 
-  Horários: Segunda a Sexta: 07:30 às 13:30
+  - Horários: Segunda a Sexta: 07:30 às 13:30
   
   
 - Thaís Ramos Viegas
 
-  Horários: Segunda a Quinta: 13:30 às 19:30 | Sexta: 11:00 às 17:00
+  - Horários: Segunda a Quinta: 13:30 às 19:30 | Sexta: 11:00 às 17:00
   
 - Wagner Guadagnin (Aderiu ao PGD).
 
-  Horários: Presencial – Quarta-feira – 10:30 às 14:30 – 15:30 às 19:30 | Quinta-feira – 07h30 às 12h e 13h às 16h30 | Sexta-feira – 07:30 às 13:30 e 14:30 às 16:30
+  - Horários: Presencial – Quarta-feira – 10:30 às 14:30 – 15:30 às 19:30 | Quinta-feira – 07h30 às 12h e 13h às 16h30 | Sexta-feira – 07:30 às 13:30 e 14:30 às 16:30
 
-  Teletrabalho: Segunda e terça-feira: 07h30 às 12h00 e 13h00 às 16h30
+  - Teletrabalho: Segunda e terça-feira: 07h30 às 12h00 e 13h00 às 16h30
