@@ -4,7 +4,7 @@ Este é o Wiki do nosso setor de TI — o repositório oficial de conhecimento d
 
 ## Seções:
 ### Sobre o setor
-- [Regulamentação](https://ifrs.edu.br/farroupilha/wp-content/uploads/sites/12/2025/10/Regulamento-dos-Laboratorios-do-Campus-Farroupilha-2025-1.pdf)
+- [Regulamentação dos laboratórios do Campus Farroupilha](https://ifrs.edu.br/farroupilha/wp-content/uploads/sites/12/2025/10/Regulamento-dos-Laboratorios-do-Campus-Farroupilha-2025-1.pdf)
 - [Contatos e horários](contato.md)
 
 ### Infraestrutura e rede
