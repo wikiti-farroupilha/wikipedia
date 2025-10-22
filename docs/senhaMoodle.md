@@ -7,7 +7,7 @@ alterar sua senha, basta seguirmos os seguintes passos:
 
 2 - Entrar no sistema do AD e na área esquerda escolher o tipo de usuário (Alunos, Professores, etc).
 
-3 - Após escolher o tipo de usuário, clique no botão de pesquisar Find objects in Active Directory Domain Services (img/find.PNG);
+3 - Após escolher o tipo de usuário, clique no botão de pesquisar Find objects in Active Directory Domain Services ![botao pesquisa](img/find.PNG);
 
 4 - Abrirá uma janela onde você deve digitar o nome do usuário que necessita o serviço, na sequência clique no botão Find Now;
 
