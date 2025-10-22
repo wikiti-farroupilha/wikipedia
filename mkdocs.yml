@@ -48,6 +48,7 @@ plugins:
 
 nav:
   - Início: index.md
+  - Drive: https://drive.google.com/drive/folders/17NKfnCuFVOzgUu3UB8x2Ixnjcy9ae5uh?usp=drive_link
 
 # ============================================
 # INFORMAÇÕES EXTRAS
