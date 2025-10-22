@@ -23,4 +23,4 @@ alterar sua senha, basta seguirmos os seguintes passos:
 
 
 
-Pode acontecer de o usuário abrir um chamado para que seja alterada a senha, para isso seguimos os mesmo passos anteriores, porém, criamos uma senha padrão e enviamos a mesma para o usuário.
+> Pode acontecer de o usuário abrir um chamado para que seja alterada a senha, para isso seguimos os mesmo passos anteriores, porém, criamos uma senha padrão e enviamos a mesma para o usuário.
