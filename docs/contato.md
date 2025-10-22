@@ -7,10 +7,14 @@
 **Servidores:**
 - Hugo Klauck – Coordenador de TI (sala: 308 e 115).
 
-  >Horários: Terça: 10:00 – 12:00 | Quarta: 14:00 – 20:00hs | Quinta: 14:00 – 18:00hs | Sexta: 14:00 – 20:00hs
+  Horários: Terça: 10:00 – 12:00 | Quarta: 14:00 – 20:00hs | Quinta: 14:00 – 18:00hs | Sexta: 14:00 – 20:00hs
+
+  
 - Daniel Teles
 
   >Horários: Segunda a Sexta: 07:30 às 13:30
+  
+  
 - Thaís Ramos Viegas
 
   >Horários: Segunda a Quinta: 13:30 às 19:30 | Sexta: 11:00 às 17:00
