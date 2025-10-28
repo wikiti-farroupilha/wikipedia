@@ -10,6 +10,8 @@ Este é o Wiki do nosso setor de TI — o repositório oficial de conhecimento d
 ### Infraestrutura e rede
 ### Suporte Técnico e Help Desk
 ### Audiovisual e Multimídia
+### Ar Condicionados
+- [Manual Controle Friven](https://docs.google.com/document/d/1ARORzguB0QlPPXp50TrXIwGeYKgkANf4jng6PPLu-MY/edit?usp=drive_link)
 ### Procedimentos Operacionais
 - [Alteração de senhas](alterarSenha.md)
 
