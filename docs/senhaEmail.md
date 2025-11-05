@@ -4,7 +4,7 @@ Entrando no *Admin Console* ele irá solicitar a senha novamente e abrirá o pai
 
 ![](../img/AdminConsole.png)
 
-Depois de acessar o *Admin Console*, para alterarmos uma senha seguimos os seguintes passos:
+**Depois de acessar o *Admin Console*, para alterarmos uma senha seguimos os seguintes passos:**
 
 - Clique em **Gerenciar** no quadrado de Usuários
 - Pesquise o nome de usuário no campo de busca que fica na área superior da página
