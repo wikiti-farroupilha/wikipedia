@@ -11,6 +11,7 @@ Este é o Wiki do nosso setor de TI — o repositório oficial de conhecimento d
 - [IP's impressoras e forma de instalação](https://docs.google.com/spreadsheets/d/1cGEDcxky5s33L-HQJvzUeGk28anz5mN0/edit?gid=1146976007#gid=1146976007)
 - [Documentação firewall](https://drive.google.com/file/d/1-thOyahL28NfYtNE7EgGh9ApufMz2tGc/view?usp=sharing)
 - [Acesso remoto ao AD](https://docs.google.com/document/d/1bMdL_0VfKol3OiUBEiMW-bfgDTP85w0e/edit)
+- [Inserindo um computador na rede](https://docs.google.com/document/d/1Icnwiac1h-oCwmjh-vHfmTUfxGkPsJNHB8y6QPXacBU/edit?usp=sharing)
 ### Suporte Técnico e Help Desk
 ### Audiovisual e Multimídia
 ### Ar Condicionados
