@@ -18,5 +18,6 @@ Este é o Wiki do nosso setor de TI — o repositório oficial de conhecimento d
 - [Manual Controle Friven](https://docs.google.com/document/d/1ARORzguB0QlPPXp50TrXIwGeYKgkANf4jng6PPLu-MY/edit?usp=drive_link)
 ### Procedimentos Operacionais
 - [Alteração de senhas](alterarSenha.md)
+- [Incluindo Script de limpeza de usuário ao desligar o computador](limpezaTurnoff.md)
 
 ### Base de Conhecimento e Tutoriais
