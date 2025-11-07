@@ -2,7 +2,7 @@ PASSO A PASSO PARA INCLUIR O SCRIPT DE LIMPEZA DOS ARQUIVOS DOS USUÁRIOS NO WIN
 
 
 - Primeiramente crie uma pasta no C:\ chamada Scripts
-- Insira nesta pasta o arquivo de PowerShell LimparPerfilUsuario.ps1 que encontra-se no nosso drive DTI na pasta Script limpeza usuário
+- Insira nesta pasta o arquivo de PowerShell [LimparPerfilUsuario.ps1](https://drive.google.com/file/d/1tN1yplTaVJlSLTaPMwcRj50FXkzJMipb/view?usp=sharing) que encontra-se no nosso drive DTI na pasta Script limpeza usuário
 - Entre no gpedit.msc como administrador
 - No lado esquerdo da da janela vá em configuração do computador
 - Acesse configuração do windows 
