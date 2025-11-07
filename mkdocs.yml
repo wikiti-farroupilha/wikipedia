@@ -57,15 +57,15 @@ nav:
 
 extra:
   social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/seu-usuario
-      name: GitHub
+   # - icon: fontawesome/brands/github
+   #   link: https://github.com/seu-usuario
+   #   name: GitHub
     - icon: fontawesome/solid/envelope
-      link: mailto:ti@instituicao.br
+      link: mailto:dti@farroupilha.ifrs.edu.br
       name: E-mail
-    - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/company/suaempresa
-      name: LinkedIn
+   # - icon: fontawesome/brands/linkedin
+   #   link: https://linkedin.com/company/suaempresa
+   #   name: LinkedIn
 
 markdown_extensions:
   - admonition
