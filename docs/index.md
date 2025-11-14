@@ -19,6 +19,6 @@ Este é o Wiki do nosso setor de TI — o repositório oficial de conhecimento d
 ### Procedimentos Operacionais
 - [Alteração de senhas](alterarSenha.md)
 - [Incluindo Script de limpeza de usuário ao desligar o computador](limpezaTurnoff.md)
-- [Inclusão de Usuários nos Apps Autodesk]([https://docs.google.com/document/d/1qabF1XeuagPmz1K5MfdqdkKbOeyX-W2b182PO3xmhYw/edit?usp=drive_link](https://docs.google.com/document/d/1SjdK-hnlPH-cl-tf4BRSYPiFqPjArQPXE_o6TgY9aF4/edit?usp=drive_link))
+- [Inclusão de Usuários nos Apps Autodesk](https://docs.google.com/document/d/1SjdK-hnlPH-cl-tf4BRSYPiFqPjArQPXE_o6TgY9aF4/edit?usp=drive_link)
 
 ### Base de Conhecimento e Tutoriais
