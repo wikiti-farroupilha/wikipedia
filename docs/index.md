@@ -22,3 +22,4 @@ Este é o Wiki do nosso setor de TI — o repositório oficial de conhecimento d
 - [Inclusão de Usuários nos Apps Autodesk](https://docs.google.com/document/d/1SjdK-hnlPH-cl-tf4BRSYPiFqPjArQPXE_o6TgY9aF4/edit?usp=drive_link)
 
 ### Base de Conhecimento e Tutoriais
+- [Manual Macrium Reflect](https://drive.google.com/file/d/1bH-IBDSgYp-vbwzBKa3wddopXoGlmfus/view?usp=drive_link)
