@@ -6,6 +6,8 @@ Este é o Wiki do nosso setor de TI — o repositório oficial de conhecimento d
 ### Sobre o setor
 - [Regulamentação dos laboratórios do Campus Farroupilha](https://ifrs.edu.br/farroupilha/wp-content/uploads/sites/12/2025/10/Regulamento-dos-Laboratorios-do-Campus-Farroupilha-2025-1.pdf)
 - [Contatos e horários](contato.md)
+- [Orientações gerais para alunos](https://docs.google.com/document/d/1meIgluTBkufRrxpC4NvndqvqZiMCj5NU/edit?usp=sharing&ouid=116746780179240990694&rtpof=true&sd=true)
+- [Reuniões DTI](https://drive.google.com/drive/folders/1v5SLuI-YHHRiVqCBqXBanFpZj3557klT?usp=drive_link)
 
 ### Infraestrutura e rede
 - [IP's impressoras e forma de instalação](https://docs.google.com/spreadsheets/d/1cGEDcxky5s33L-HQJvzUeGk28anz5mN0/edit?gid=1146976007#gid=1146976007)
