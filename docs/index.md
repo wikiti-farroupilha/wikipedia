@@ -8,6 +8,7 @@ Este é o Wiki do nosso setor de TI — o repositório oficial de conhecimento d
 - [Contatos e horários](contato.md)
 - [Orientações gerais para alunos](https://docs.google.com/document/d/1meIgluTBkufRrxpC4NvndqvqZiMCj5NU/edit?usp=sharing&ouid=116746780179240990694&rtpof=true&sd=true)
 - [Reuniões DTI](https://drive.google.com/drive/folders/1v5SLuI-YHHRiVqCBqXBanFpZj3557klT?usp=drive_link)
+- [Orientações gerais para novos servidores da TI](https://drive.google.com/file/d/1vUDKgIa8gv-Hv1Y7MfHjbIghPUiBv81k/view?usp=sharing)
 
 ### Infraestrutura e rede
 - [IP's impressoras e forma de instalação](https://docs.google.com/spreadsheets/d/1cGEDcxky5s33L-HQJvzUeGk28anz5mN0/edit?gid=1146976007#gid=1146976007)
