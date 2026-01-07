@@ -22,7 +22,7 @@ Este é o Wiki do nosso setor de TI — o repositório oficial de conhecimento d
 - [Manual Controle Friven](https://docs.google.com/document/d/1ARORzguB0QlPPXp50TrXIwGeYKgkANf4jng6PPLu-MY/edit?usp=drive_link)
 ### Procedimentos Operacionais
 - [Alteração de senhas](alterarSenha.md)
-- [Senhas gerais da TI](https://docs.google.com/document/d/1XgU0Fn1PEHFdpvLKUTy67iR9V6-pMulq/edit#heading=h.98e577chs3i)
+- [Senhas gerais da TI](https://docs.google.com/document/d/1XgU0Fn1PEHFdpvLKUTy67iR9V6-pMulq/edit#heading=h.3ehjao4tpmki)
 - [Incluindo Script de limpeza de usuário ao desligar o computador](limpezaTurnoff.md)
 - [Inclusão de Usuários nos Apps Autodesk](https://docs.google.com/document/d/1SjdK-hnlPH-cl-tf4BRSYPiFqPjArQPXE_o6TgY9aF4/edit?usp=drive_link)
 
