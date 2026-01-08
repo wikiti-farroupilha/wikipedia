@@ -1,6 +1,7 @@
 # Bem-vindo à Wikipédia do Setor de TI do IFRS - Campus Farroupilha
 
 Este é o Wiki do nosso setor de TI — o repositório oficial de conhecimento do setor de Tecnologia da Informação do IFRS Campus Farroupilha. Aqui você encontrará documentações, procedimentos, padrões técnicos, tutoriais e boas práticas que sustentam nossas operações e processos. Nosso objetivo é centralizar o conhecimento e facilitar o acesso à informação, promovendo eficiência, padronização e aprendizado contínuo.
+[Comece por aqui](https://docs.google.com/document/d/1XgU0Fn1PEHFdpvLKUTy67iR9V6-pMulq/edit?usp=sharing&ouid=116746780179240990694&rtpof=true&sd=true)
 
 ## Seções:
 ### Sobre o setor
